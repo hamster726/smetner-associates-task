@@ -1,5 +1,8 @@
 #Task for Smetner Associates
 
+
+[DEMO](https://hamster726.github.io/smetner-associates-task/)
+
 Task:
 - Нужно сверстать сайт по макету
 - Сделать responsive верстку с Desktop до Mobile (расположение элементов продумать самому)
